@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/cursos" 
+        android:title="Cursos"
+        android:icon="@android:drawable/ic_menu_agenda"
+        ></item>
+    <item android:id="@+id/mis_cursos" 
+        android:title="Mis Cursos"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        ></item>
+    <item android:id="@+id/mapa" 
+        android:title="Mapa"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        ></item>
+</menu>
